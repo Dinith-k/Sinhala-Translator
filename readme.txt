@@ -1,1 +1,1 @@
-hello
+Sinhala translator
